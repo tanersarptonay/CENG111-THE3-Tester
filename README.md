@@ -20,6 +20,7 @@ Tester prints all of the cases (True or False) on results.txt. Terminal just sho
 You can use tester_short.txt for easier analyzing the cases.
 To do that, just change the file name at the sixth line.
 You can also check out our other cases with different lengths.
+
 (Beware the file tester_unnecessary_long.txt, it contains 12 MBs of data, which takes a minute or two to process.)
 
 If you wonder how we generated our cases, you can check out case_generator.py.
