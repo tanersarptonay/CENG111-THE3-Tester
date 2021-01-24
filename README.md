@@ -24,3 +24,10 @@ You can also check out our other cases with different lengths.
 
 If you wonder how we generated our cases, you can check out case_generator.py
 
+Expected results are calculated with respect to our outputs. If you think they are incorrect, please contact us and share your output.
+
+Coded by:
+# Baran Yancı
+# Taner Sarp Tonay
+
+
