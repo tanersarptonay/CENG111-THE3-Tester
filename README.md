@@ -15,7 +15,7 @@ Incase of errors similar to "ModuleNotFoundError: No module named 'the3'", modif
                from CENG_111_THE3.the3 import *
 
 
-Tester prints all of the cases (True or False) on results.txt.
+Tester prints all of the cases (True or False) on results.txt. Terminal just shows your score.
 
 You can use tester_short.txt for easier analyzing the cases.
 To do that, just change the file name at the sixth line.
