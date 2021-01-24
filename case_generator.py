@@ -57,24 +57,4 @@ for num in range(100):
 
 with open("tester_long.txt", "w", encoding="utf-8") as file:
     file.writelines(results)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
