@@ -8,7 +8,6 @@ To use this tester:
     Put the3.py and these files in the same directory.
     And run tester.py!
     
-If you wonder how we generated our cases, you can check out case_generator.py
 
 Incase of errors similar to "ModuleNotFoundError: No module named 'the3'", modify the second line of tester.py, which imports your the3.py
     
@@ -23,3 +22,6 @@ You can use tester_short.txt for easier analyzing the cases.
 To do that, just change the file name at the sixth line.
 You can also check out our other cases with different lengths.
 (Beware the file tester_unnecessary_long.txt, it contains 12 MBs of data, which takes a minute or two to process.)
+
+If you wonder how we generated our cases, you can check out case_generator.py
+
