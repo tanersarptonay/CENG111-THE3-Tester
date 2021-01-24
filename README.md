@@ -22,7 +22,8 @@ To do that, just change the file name at the sixth line.
 You can also check out our other cases with different lengths.
 (Beware the file tester_unnecessary_long.txt, it contains 12 MBs of data, which takes a minute or two to process.)
 
-If you wonder how we generated our cases, you can check out case_generator.py
+If you wonder how we generated our cases, you can check out case_generator.py.
+case_generator.py overwrites our cases, in that case you can just download our tester.txt file again.
 
 Expected results are calculated with respect to our outputs. If you think they are incorrect, please contact us and share your output.
 
