@@ -2,8 +2,8 @@ from CENG_111.THE3.the3 import *
 import sys
 import random
 number = 2
-
 sys.setrecursionlimit(10**6)
+
 def randomer(bro, limit):
     global number
     if number > limit:
