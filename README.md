@@ -8,7 +8,7 @@ To use this tester:
     And run tester.py!
     
 
-Incase of errors similar to "ModuleNotFoundError: No module named 'the3'", modify the second line of tester.py, which imports your the3.py
+In case of errors similar to "ModuleNotFoundError: No module named 'the3'", modify the second line of tester.py, which imports your the3.py
     
      for e.g:  If your the3.py is in a folder named CENG_111_THE3, 
                modify the line respect to it's path 
