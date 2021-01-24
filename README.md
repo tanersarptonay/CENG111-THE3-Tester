@@ -1,7 +1,6 @@
 # CENG111-THE3-Tester
 Tester for the CENG111 Take Home Exam 3 in 2020-21 Fall Semester.
 
-This tester is for the third Take Home Exam of CENG 111 course.
 
 To use this tester:
 
