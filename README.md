@@ -13,6 +13,7 @@ In case of errors similar to "ModuleNotFoundError: No module named 'the3'", modi
      for e.g:  If your the3.py is in a folder named CENG_111_THE3, 
                modify the line respect to it's path 
                from CENG_111_THE3.the3 import *
+     If you are using VSCode, you may need to write file's path completely
 
 
 Tester prints all of the cases (True or False) on results.txt. Terminal just shows your score.
