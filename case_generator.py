@@ -45,6 +45,7 @@ for num in range(100):
     number = 2
     rawcase = randomer(initial, random.randint(500, 1000))
     case = completer(rawcase)
+    # random.shuffle(case)  @TODO: shuffles part_list
     stock = stock_generator(case)
     cp_output = calculate_price(case)
     rp_output = required_parts(case)
