@@ -12,7 +12,9 @@ If you wonder how we generated our cases, you can check out case_generator.py
 
 Incase of errors similar to "ModuleNotFoundError: No module named 'the3'", modify the second line of tester.py, which imports your the3.py
     
-     for e.g:  If your the3.py is in a folder named CENG_111_THE3, modify the line respect to it's path ==> from CENG_111_THE3.the3 import *
+     for e.g:  If your the3.py is in a folder named CENG_111_THE3, 
+               modify the line respect to it's path 
+               from CENG_111_THE3.the3 import *
 
 
 Tester prints all of the cases (True or False) on results.txt.
